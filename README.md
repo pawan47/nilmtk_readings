@@ -39,4 +39,6 @@ Papers:
 
 5. http://nilmworkshop.org/2018/proceedings/Paper_ID19.pdf   ---Best Paper of NILM2018  ---single load detection 
 
+6. https://www.iiitd.ac.in/sites/default/files/docs/phdthesis/batra_thesis.pdf  --- Batra Thesis
+
 
