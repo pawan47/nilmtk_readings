@@ -44,3 +44,8 @@ Papers:
 7. http://makonin.com/doc/ICASSP_2019.pdf  ---Real time NILM 
 
 
+
+Intresting Readings
+====================
+
+1. http://makonin.com/doc/TCAS2_2019.pdf  ---power usage forecasting 
