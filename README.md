@@ -35,4 +35,5 @@ Papers:
 
 3. https://arxiv.org/pdf/1612.09106v3.pdf  --- Sequence-to-point learning with neural networks for non-intrusive load monitoring
 
+4.https://www.researchgate.net/publication/324250715_Home_Appliance_Identification_for_Nilm_Systems_Based_on_Deep_Neural_Networks   ---Used CNN--
 
