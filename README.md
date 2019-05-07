@@ -41,4 +41,6 @@ Papers:
 
 6. https://www.iiitd.ac.in/sites/default/files/docs/phdthesis/batra_thesis.pdf  --- Batra Thesis
 
+7. http://makonin.com/doc/ICASSP_2019.pdf  ---Real time NILM 
+
 
