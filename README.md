@@ -43,6 +43,8 @@ Papers:
 
 7. http://makonin.com/doc/ICASSP_2019.pdf  ---Real time NILM 
 
+8. https://www.zyax.se/blog/nilm/  This is an introductory Blog for NILM. Have some papers in reference
+
 
 
 Intresting Readings
