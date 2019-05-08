@@ -13,6 +13,8 @@ Repos
 
 5. https://github.com/JackKelly/neuralnilm  ---original implemetation of paper NeuralNILM.
 
+6. https://github.com/MingjunZhong/NeuralNetNilm  --- Implementation of seq-to-point paper
+
 
 Dataset:
 ==================
