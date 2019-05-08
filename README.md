@@ -23,6 +23,8 @@ http://jack-kelly.com/data/   ---very big data
 2. REDD 
 http://redd.csail.mit.edu/    --but requires password and id  ( id/password : redd/disaggregatetheenergy)
 
+3. iAWE
+http://iawe.github.io/ .      --Indian data for 73 days collected in Delhi.
 
 
 
@@ -45,9 +47,14 @@ Papers:
 
 8. https://www.zyax.se/blog/nilm/  This is an introductory Blog for NILM. Have some papers in reference
 
+9. http://makonin.com/doc/TSG_2015.pdf  ---Implementation of sparse coding and FHMM (Thesis available)
+
 
 
 Intresting Readings
 ====================
 
 1. http://makonin.com/doc/TCAS2_2019.pdf  ---power usage forecasting 
+
+Thesis:
+
