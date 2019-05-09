@@ -15,6 +15,8 @@ Repos
 
 6. https://github.com/MingjunZhong/NeuralNetNilm  --- Implementation of seq-to-point paper
 
+7. https://github.com/pipette/Electricity-load-disaggregation  ---FHMM without NILMTK
+
 
 Dataset:
 ==================
