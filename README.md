@@ -55,6 +55,8 @@ Papers:
 
 10. https://energyinformatics.springeropen.com/track/pdf/10.1186/s42162-018-0038-y   ---- Application of GAN
 
+11. http://journals.tubitak.gov.tr/elektrik/issues/elk-18-26-2/elk-26-2-13-1705-262.pdf  --- Harmonics
+
 
 
 Intresting Readings
