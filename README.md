@@ -51,6 +51,8 @@ Papers:
 
 9. http://makonin.com/doc/TSG_2015.pdf  ---Implementation of sparse coding and FHMM (Thesis available)
 
+10. https://energyinformatics.springeropen.com/track/pdf/10.1186/s42162-018-0038-y   ---- Application of GAN
+
 
 
 Intresting Readings
